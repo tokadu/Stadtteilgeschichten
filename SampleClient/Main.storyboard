@@ -198,6 +198,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="I4F-KX-6Vu" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1101" y="215"/>
+        </scene>
         <!--Capture New Video View Controller - New-->
         <scene sceneID="A2Y-UJ-5vw">
             <objects>
